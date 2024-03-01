@@ -7,8 +7,8 @@
 [![URL Class](https://img.shields.io/badge/URLClass-f97f50?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1h0C14B32Y8jkV3TFu2sGFKpvRSONiUgD?usp=sharing)
 [![URL Pytest](https://img.shields.io/badge/URLPytest-f97f50?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1783CT_UxNxehwD4aHUnoLa3H4xbAon8J?usp=sharing)
 [![DBT](https://img.shields.io/badge/DBT-f97f50?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/11LC8msRagg2MV6e83Q-AYY7wZ5S9anWY#scrollTo=Zq9RiaaUFyMk)
-[![ContentClass](https://img.shields.io/badge/Colab-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1Ps4G5vtSXceOwaeTq-MAmqW4XhhiCL2S?usp=sharing)
-[![MetaDataClass](https://img.shields.io/badge/Colab-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1PWYawjrdHzW1C0Tv5I-lJP9EMANxLeH0?usp=sharing)
+[![ContentClass](https://img.shields.io/badge/ContentClass-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1Ps4G5vtSXceOwaeTq-MAmqW4XhhiCL2S?usp=sharing)
+[![MetaDataClass](https://img.shields.io/badge/MetaDataClass-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1PWYawjrdHzW1C0Tv5I-lJP9EMANxLeH0?usp=sharing)
 
 
 ## Problem Statement
