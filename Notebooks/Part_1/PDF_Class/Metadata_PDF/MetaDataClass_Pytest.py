@@ -1,8 +1,28 @@
 from pydantic import BaseModel, HttpUrl, validator, ValidationError, HttpUrl
 from datetime import datetime
 
-import pytest
-from your_module import MetaDataPDFClass  # Replace 'your_module' with the name of your Python file where MetaDataPDFClass is defined.
+class MetaDataPDFClass(BaseModel):
+    level: str
+    file_size_kb: float  # File size in KB
+    amazon_storage_class: str
+    s3_text_link: HttpUrl  # S3 link to the PDF
+    file_path: str
+    content_type: str = "txt"  # Default content type as text
+    date_updated: datetime
+
+    # Validator for Amazon Storage Class
+    @validator('amazon_storage_class')
+    def storage_class_must_be_standard_or_glacier(cls, v):
+        if v not in ["Standard", "Glacier"]:
+            raise ValueError('Amazon_storage_class must be "Standard" or "Glacier"')
+        return v
+
+    # Validator for file size to ensure it's positive
+    @validator('file_size_kb')
+    def file_size_must_be_positive(cls, v):
+        if v <= 0:
+            raise ValueError('file_size_kb must be a positive number')
+        return v
 
 import pytest
 # Test cases that should pass
