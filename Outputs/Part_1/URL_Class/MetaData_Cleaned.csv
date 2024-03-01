@@ -1,0 +1,7 @@
+Level,File Size (KB),Amazon Storage Class,S3 Text Link,File Path,Content Type,Date Updated
+I,35.8,Standard,https://cfa-assignment2.s3.us-east-2.amazonaws.com/data/Grobid_RR_2024_LevelI_combined.txt,data/Grobid_RR_2024_LevelI_combined.txt,txt,2024-02-27
+II,37.5,Standard,https://cfa-assignment2.s3.us-east-2.amazonaws.com/data/Grobid_RR_2024_LevelII_combined.txt,data/Grobid_RR_2024_LevelII_combined.txt,txt,2024-02-27
+III,21.1,Standard,https://cfa-assignment2.s3.us-east-2.amazonaws.com/data/Grobid_RR_2024_LevelIII_combined.txt,data/Grobid_RR_2024_LevelIII_combined.txt,txt,2024-02-27
+I,45.0,Standard,https://cfa-assignment2.s3.us-east-2.amazonaws.com/data/PyPDF_2024_l1_combined.txt,data/PyPDF_2024_l1_combined.txt,txt,2024-02-27
+II,46.0,Standard,https://cfa-assignment2.s3.us-east-2.amazonaws.com/data/PyPDF_2024_l2_combined.txt,data/PyPDF_2024_l2_combined.txt,txt,2024-02-27
+III,30.0,Standard,https://cfa-assignment2.s3.us-east-2.amazonaws.com/data/PyPDF_2024_l3_combined.txt,data/PyPDF_2024_l3_combined.txt,txt,2024-02-27
