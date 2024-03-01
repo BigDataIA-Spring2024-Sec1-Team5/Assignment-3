@@ -27,6 +27,9 @@ def test_valid_row_model_min_level():
 def test_valid_row_model_max_level():
     RowModel(Level=3, Category="Alternative Investments", Topic="Real Estate", LearningOutcomes="Introduction to real estate investment")
 
+def test_valid_Content_pdf_class(data):
+    assert RowModel(**data)
+
 #Failing Test Cases
 #For the failing test cases, we expect a ValidationError to be raised due to not meeting the model's constraints. We use pytest.raises to check for these exceptions
 
@@ -49,3 +52,10 @@ def test_invalid_row_model_missing_topic():
 def test_invalid_row_model_non_integer_level():
     with pytest.raises(ValidationError):
         RowModel(Level="Two", Category="Quantitative Methods", Topic="Probability", LearningOutcomes="Understanding of basic probability concepts")
+
+def test_invalid_content_pdf_class(data):
+    with pytest.raises(ValidationError) as exc_info:
+        URLClass(**data)
+    assert expected_error in str(exc_info.value)
+    with pytest.raises((ValidationError, ValueError, TypeError)):
+        MRowModel(**data)
