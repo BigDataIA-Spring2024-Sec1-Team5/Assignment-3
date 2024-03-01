@@ -1,7 +1,7 @@
 # Assignment-3
 
 ## Live application Links
-[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1H02nPi64xmAH9DNvVs2ri15O0f36IX3hWvasRI22rFc#0)
+[![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=10kLg_eqlQLwbnRTzetD3K1axOyOcv1lUpjK6VEiu4mg#0)
 [![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1mFdMZSsqFS_wx-s1YmbbTsBmJW3ccKKE?authuser=0#scrollTo=O8kkuKhPSr-F)
 [![Scraping](https://img.shields.io/badge/Scraping-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1sEYmKrq0sT9y6D0vvALnOu_VZR4cdiwp?usp=sharing)
 [![ContentClass](https://img.shields.io/badge/ContentClass-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1Ps4G5vtSXceOwaeTq-MAmqW4XhhiCL2S?usp=sharing)
@@ -40,7 +40,7 @@ Existing accounts of Snowflake and DBT*
 ## Project Structure
 ```
 📦 Assignment3
-├─ ReadMe
+├─ ReadME
 |- Images
 │  ├─ Assignment-3.png
 │  ├─ CSV.png
