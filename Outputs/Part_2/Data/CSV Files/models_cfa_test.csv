@@ -1,0 +1,110 @@
+TOPIC,LEVELS,YEARS,NUMBER_OF_ARTICLES,MIN_SUMMARY_LENGTH,MAX_SUMMARY_LENGTH,MIN_LEARNING_OUTCOME,MAX_LEARNING_OUTCOME
+Quantitative Methods,"[
+  ""Level II"",
+  ""Level I""
+]","[
+  ""2024"",
+  ""2023"",
+  ""2021"",
+  ""2020""
+]",18,1942,11453,258,2344
+Alternative Investments,"[
+  ""Level I"",
+  ""Level II""
+]","[
+  ""2023"",
+  ""2024""
+]",16,17,8429,17,980
+Derivatives,"[
+  ""Level II"",
+  ""Level I""
+]","[
+  ""2020"",
+  ""2021"",
+  ""2023"",
+  ""2024"",
+  ""2022""
+]",15,17,7164,133,1348
+Financial Reporting and Analysis,"[
+  ""Level III"",
+  ""Level I"",
+  ""Level II""
+]","[
+  ""2024"",
+  ""2021"",
+  ""2023"",
+  ""2020"",
+  ""2018""
+]",22,17,8428,561,1945
+Equity Investments,"[
+  ""Level III"",
+  ""Level II"",
+  ""Level I""
+]","[
+  ""2023"",
+  ""2022"",
+  ""Year Not Found"",
+  ""2024"",
+  ""2018""
+]",24,17,10098,17,2314
+Corporate Finance,"[
+  ""Level I"",
+  ""Level II""
+]","[
+  ""2023"",
+  ""2022"",
+  ""2024"",
+  ""2020"",
+  ""2021""
+]",24,17,6279,17,1687
+EconomicsFinancial Reporting and Analysis,"[
+  ""Level I""
+]","[
+  ""2023""
+]",1,9489,9489,531,531
+Fixed Income,"[
+  ""Level I"",
+  ""Level II""
+]","[
+  ""2024"",
+  ""2023"",
+  ""2021""
+]",30,17,12249,17,1491
+Economics,"[
+  ""Level II"",
+  ""Level I""
+]","[
+  ""2024"",
+  ""2023"",
+  ""2021""
+]",12,17,11117,290,1556
+Portfolio Management and Wealth Planning,"[
+  ""Level I"",
+  ""Level II"",
+  ""Level III""
+]","[
+  ""2021"",
+  ""2018"",
+  ""2023"",
+  ""2024"",
+  ""2020""
+]",46,17,15072,17,1688
+Ethical and Professional Standards,"[
+  ""Level III"",
+  ""Level I"",
+  ""Level II""
+]","[
+  ""2023"",
+  ""2021"",
+  ""2024""
+]",13,17,7515,297,1880
+DerivativesCorporate Finance,"[
+  ""Level I""
+]","[
+  ""Year Not Found""
+]",2,17,17,44,972
+Alternative InvestmentsEconomicsDerivativesQuantitative Methods,"[
+  ""Level I""
+]","[
+  ""Year Not Found""
+]",1,17,17,528,528
