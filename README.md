@@ -72,6 +72,8 @@ Existing accounts of Snowflake and DBT*
    ├─ Part _1
    │  ├─ PyTest_MetaData.png
    │  ├─ URL_Pytest.png
+   │  ├─ ContentClass_Cleaned.csv
+   │  ├─ MetaData_Cleaned.csv
    │  └─ Updated_Scrapped_Data.csv
    └─ Part_2
       ├─ Lineage
