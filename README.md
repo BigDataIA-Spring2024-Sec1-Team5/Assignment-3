@@ -3,12 +3,12 @@
 ## Live application Links
 [![codelabs](https://img.shields.io/badge/codelabs-4285F4?style=for-the-badge&logo=codelabs&logoColor=white)](https://codelabs-preview.appspot.com/?file_id=1H02nPi64xmAH9DNvVs2ri15O0f36IX3hWvasRI22rFc#0)
 [![workflow_architecture](https://img.shields.io/badge/workflow_architecture-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1mFdMZSsqFS_wx-s1YmbbTsBmJW3ccKKE?authuser=0#scrollTo=O8kkuKhPSr-F)
-[![ContentClass](https://img.shields.io/badge/Colab-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1Ps4G5vtSXceOwaeTq-MAmqW4XhhiCL2S?usp=sharing)
-[![MetaDataClass](https://img.shields.io/badge/Colab-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1PWYawjrdHzW1C0Tv5I-lJP9EMANxLeH0?usp=sharing)
 [![Scraping](https://img.shields.io/badge/Scraping-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1sEYmKrq0sT9y6D0vvALnOu_VZR4cdiwp?usp=sharing)
 [![URL Class](https://img.shields.io/badge/URLClass-f97f50?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1h0C14B32Y8jkV3TFu2sGFKpvRSONiUgD?usp=sharing)
 [![URL Pytest](https://img.shields.io/badge/URLPytest-f97f50?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1783CT_UxNxehwD4aHUnoLa3H4xbAon8J?usp=sharing)
 [![DBT](https://img.shields.io/badge/DBT-f97f50?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/11LC8msRagg2MV6e83Q-AYY7wZ5S9anWY#scrollTo=Zq9RiaaUFyMk)
+[![ContentClass](https://img.shields.io/badge/Colab-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1Ps4G5vtSXceOwaeTq-MAmqW4XhhiCL2S?usp=sharing)
+[![MetaDataClass](https://img.shields.io/badge/Colab-FC6600?style=for-the-badge&logo=jupyter&logoColor=white)](https://colab.research.google.com/drive/1PWYawjrdHzW1C0Tv5I-lJP9EMANxLeH0?usp=sharing)
 
 
 ## Problem Statement
