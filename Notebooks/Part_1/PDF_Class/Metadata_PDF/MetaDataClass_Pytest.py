@@ -45,5 +45,8 @@ def test_valid_metadata_pdf_class(data):
     {"level": "II", "file_size_kb": 50, "amazon_storage_class": "Glacier", "s3_text_link": "https://example.com/data5.txt", "file_path": "data/data5.txt", "date_updated": "invalid_date"}  # Invalid date format
 ])
 def test_invalid_metadata_pdf_class(data):
+    with pytest.raises(ValidationError) as exc_info:
+        URLClass(**data)
+    assert expected_error in str(exc_info.value)
     with pytest.raises((ValidationError, ValueError, TypeError)):
         MetaDataPDFClass(**data)
